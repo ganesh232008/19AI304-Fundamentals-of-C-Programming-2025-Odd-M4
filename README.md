@@ -206,13 +206,17 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 # Program:
 
-![WhatsApp Image 2025-12-26 at 8 07 06 PM](https://github.com/user-attachments/assets/a5950e37-1ddc-442c-81f4-98fe22d095d5)
+![WhatsApp Image 2025-12-26 at 8 07 07 PM (2)](https://github.com/user-attachments/assets/af17a275-5dab-40b6-8c0b-3ff4de4392a0)
 
-![WhatsApp Image 2025-12-26 at 8 07 06 PM](https://github.com/user-attachments/assets/05980931-0c30-4ffa-8643-95f96cbbc604)
+
+![WhatsApp Image 2025-12-26 at 8 07 06 PM (3)](https://github.com/user-attachments/assets/788f625c-f33d-447a-bf1a-51ffd51d632d)
+
 
 # Output:
 
-![WhatsApp Image 2025-12-26 at 8 07 07 PM](https://github.com/user-attachments/assets/5ca29103-aa65-414b-99d9-9e151dfaffe2)
+![WhatsApp Image 2025-12-26 at 8 07 07 PM](https://github.com/user-attachments/assets/78caeb4f-b1a3-4dcd-948f-db182a35750e)
+
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -249,13 +253,16 @@ To build a C program to convert a string as described above, using a user-define
  Stop
 # Program:
 
-![WhatsApp Image 2025-12-26 at 8 07 08 PM](https://github.com/user-attachments/assets/458d8a21-91e9-4497-83c1-f8cede5a743c)
+![WhatsApp Image 2025-12-26 at 8 07 08 PM](https://github.com/user-attachments/assets/0fee063a-40b0-4ff6-bc14-ea936b18364b)
 
-![WhatsApp Image 2025-12-26 at 8 07 08 PM (2)](https://github.com/user-attachments/assets/e276e7c1-483b-4e4b-a130-d985e22b4709)
+![WhatsApp Image 2025-12-26 at 8 07 08 PM (2)](https://github.com/user-attachments/assets/f585afa2-1d38-4109-9392-1f424a243f56)
+
 
 # Output:
 
-![WhatsApp Image 2025-12-26 at 8 07 08 PM (2)](https://github.com/user-attachments/assets/3fe4dc62-9ca2-447d-b84e-4d3487b369b5)
+
+![WhatsApp Image 2025-12-26 at 8 07 08 PM (4)](https://github.com/user-attachments/assets/0b759e39-3bdb-4da6-a12d-725c352cf41b)
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
