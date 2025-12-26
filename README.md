@@ -41,7 +41,13 @@
 ### Step 14: 
   Stop
 # Program:
+![WhatsApp Image 2025-12-26 at 8 07 03 PM](https://github.com/user-attachments/assets/75211c22-6c8c-4816-95c9-a1c53aac4037)
+![WhatsApp Image 2025-12-26 at 8 07 04 PM](https://github.com/user-attachments/assets/ad43ca07-4622-402a-80ac-50287ab747bc)
+
 # Output:
+![WhatsApp Image 2025-12-26 at 8 07 03 PM (2)](https://github.com/user-attachments/assets/b7245038-a46b-4289-984e-e4e7e126d372)
+![WhatsApp Image 2025-12-26 at 8 07 04 PM (2)](https://github.com/user-attachments/assets/4b2c34cb-f7ee-454f-b5d8-ee0f9714fa78)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -89,7 +95,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 13: 
   Stop
 # Program:
+
+![WhatsApp Image 2025-12-26 at 8 07 05 PM](https://github.com/user-attachments/assets/3c137485-b79a-486c-8789-09317e80c400)
+
 # Output:
+
+![WhatsApp Image 2025-12-26 at 8 07 05 PM (2)](https://github.com/user-attachments/assets/fa6fb6a5-f92e-43fd-95e5-5bfc94112424)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -137,7 +149,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11: 
  Stop
 # Program:
+
+![WhatsApp Image 2025-12-26 at 8 07 06 PM](https://github.com/user-attachments/assets/d4df006c-fb86-4231-8457-e1a1baae60d2)
+
 # Output:
+
+![WhatsApp Image 2025-12-26 at 8 07 06 PM](https://github.com/user-attachments/assets/eeecb635-6e67-4c45-b1b0-e99422dda10e)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -185,7 +203,15 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7: 
   Stop
 # Program:
+
+![WhatsApp Image 2025-12-26 at 8 07 06 PM](https://github.com/user-attachments/assets/a5950e37-1ddc-442c-81f4-98fe22d095d5)
+
+![WhatsApp Image 2025-12-26 at 8 07 06 PM](https://github.com/user-attachments/assets/05980931-0c30-4ffa-8643-95f96cbbc604)
+
 # Output:
+
+![WhatsApp Image 2025-12-26 at 8 07 07 PM](https://github.com/user-attachments/assets/5ca29103-aa65-414b-99d9-9e151dfaffe2)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -220,7 +246,15 @@ To build a C program to convert a string as described above, using a user-define
 ### Step 6: 
  Stop
 # Program:
+
+![WhatsApp Image 2025-12-26 at 8 07 08 PM](https://github.com/user-attachments/assets/458d8a21-91e9-4497-83c1-f8cede5a743c)
+
+![WhatsApp Image 2025-12-26 at 8 07 08 PM (2)](https://github.com/user-attachments/assets/e276e7c1-483b-4e4b-a130-d985e22b4709)
+
 # Output:
+
+![WhatsApp Image 2025-12-26 at 8 07 08 PM (2)](https://github.com/user-attachments/assets/3fe4dc62-9ca2-447d-b84e-4d3487b369b5)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
