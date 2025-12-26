@@ -154,7 +154,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 
 # Output:
 
-![WhatsApp Image 2025-12-26 at 8 07 06 PM](https://github.com/user-attachments/assets/eeecb635-6e67-4c45-b1b0-e99422dda10e)
+
+![WhatsApp Image 2025-12-26 at 8 07 06 PM (2)](https://github.com/user-attachments/assets/73d80ac0-2103-4416-8ac6-ae6c2cfd12cf)
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
